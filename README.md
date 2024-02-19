@@ -1,5 +1,7 @@
 ## Are you hiring? 👋
-I am actively seeking a staff, principal, manager, or director level software engineering leadership role. My expertise is working on web sites and web applications, guiding teams that are designing and developing full stack solutions in earlier stage startups. If you need an experienced, fun webapp developer with a strong servant leader management style, contact me at hire-me@jericsmall.com.
+I am actively seeking a staff, principal, manager, or director level software engineering leadership role. My expertise is working on web sites and web applications, guiding teams that are designing and developing full stack solutions in earlier stage startups. 
+
+If you need an experienced, fun webapp developer and leader with a strong servant leader management style, contact me at hire-me@jericsmall.com.
 
 <!--
 ## Career highlights
