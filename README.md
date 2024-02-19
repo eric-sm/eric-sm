@@ -1,10 +1,20 @@
-### Hire me! 👋
-I am actively seeking my next passion. Email me if you need an experienced, fun developer with strong servant leadership management philosophy.
+## Hire me! 👋
+I am actively seeking a hands-on staff, principal, manager, or director level engineering leadership role.
+
+If you need an experienced, fun webapp developer with a strong servant leader management style, contact me at hire-me@jericsmall.com.
 
 <!--
-**eric-sm/eric-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career highlights
 
-Here are some ideas to get you started:
+## Skills
+-->
+
+## Contact me 📫
+* LinkedIn: https://www.linkedin.com/in/erictech/
+* Email: hire-me@jericsmall.com
+
+_pronouns: he/him/his_
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
