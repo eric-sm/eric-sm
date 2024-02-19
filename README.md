@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hire me! 👋
+I am actively seeking my next passion. Email me if you need an experienced, fun developer with strong servant leadership management philosophy.
 
 <!--
 **eric-sm/eric-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
