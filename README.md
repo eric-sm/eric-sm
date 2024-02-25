@@ -3,18 +3,18 @@ I am actively seeking a staff, principal, manager, or director level software en
 
 If you need an experienced, fun webapp developer and leader with a strong servant leader management style, contact me at hire-me@jericsmall.com.
 
-## Engineering Skills
+### Engineering Skills
 * TypeScript, JavaScript, HTML, CSS
 * React, Next.js, XState
 * Java, Python, PHP
 * AWS, Ansible 
 
-## Career highlights
+### Career highlights
 * Developed the first website for the Chicago Cubs
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laudry and dry cleaning startup that employed over 250 at its peek
 
-## Job History in Web Tech
+### Job History in Web Tech
 * SmartAsset
 * Rent the Runway
 * FlyCleaners
