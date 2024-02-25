@@ -3,7 +3,7 @@ I am actively seeking a staff, principal, manager, or director level software en
 
 If you need an experienced, fun webapp developer and leader with a strong servant leader management style, contact me at hire-me@jericsmall.com.
 
-## Skills
+## Engineering Skills
 * TypeScript, JavaScript, HTML, CSS
 * React, Next.js, XState
 * Java, Python, PHP
@@ -11,7 +11,7 @@ If you need an experienced, fun webapp developer and leader with a strong servan
 
 ## Career highlights
 * Developed the first website for the Chicago Cubs
-* Contributed to four startups that subsequently exited in an IPO (Diamond, DreamWorks SDK, GrubHub, Rent the Runway)
+* Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laudry and dry cleaning startup that employed over 250 at its peek
 
 ## Job History in Web Tech
@@ -23,7 +23,7 @@ If you need an experienced, fun webapp developer and leader with a strong servan
 * Citysearch
 * DreamWorks SKG
 * Universal Studios
-* Diamond Technology Partners
+* Diamond Technology Partners / DiamondCluster
 * Adbot, Inc.
 * Tribune Media Services
 
