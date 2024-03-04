@@ -21,7 +21,7 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 ### Career highlights
 * Developed the first website for the Chicago Cubs
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
-* Partnered to start FlyCleaners, an on-demand laudry and dry cleaning startup that employed over 250 at its peek
+* Partnered to start FlyCleaners, an on-demand laundry and dry cleaning startup that employed over 250 at its peek
 
 ### Job History in Web Tech
 * SmartAsset
