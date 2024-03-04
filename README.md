@@ -3,11 +3,20 @@ I am actively seeking a staff, principal, manager, or director level software en
 
 If you need an experienced, fun webapp developer and engineering leader with a strong servant leader management style, review my [resume on Google Drive (PDF)](https://drive.google.com/file/d/1ZjaJdfN0q9BB_qL9k6h1zAtuamGMaeWY/view?usp=sharing) and contact me at hire-me@jericsmall.com, if intereested.
 
-### Engineering Skills
-* TypeScript, JavaScript, HTML, CSS
-* React, Next.js, XState
-* Java, Python, PHP
-* AWS, Ansible 
+### Skills
+* **Leadership** — servant leadership, WISER situation analysis model, SWOT planning and analyses
+* **SDLC:** Scrum, Kanban, agile methodologies, waterfall
+* **Design methodologies / tools** — DDD (domain driven design), c4 modeling, Miro
+* **Languages:** TypeScript, JavaScript, Node.js, Java, Python, PHP, HTML, CSS, SQL
+* **Frameworks / libraries:** React, Next.js, GraphQL, XState, jQuery, Spring, Django
+* **Architectures** — SPA (single page application), Jamstack, serverless, microservices, async, MVC, headless CMS, REST, JWT, OAuth2
+* **Application / project types** — LLM generative AI, mobile apps, web apps, websites, websockets, technical SEO
+* **Database / OS** — PostgreSQL, MySQL, nginx, Apache, Ubuntu, Linux, bash scripting
+* **Infrastructure** — Amazon Web Services (EC2, Lambda, RDS, CloudFront, VPC, WAF, etc.); Docker, Ansible
+* **Observability** — New Relic, Datadog, CloudWatch, Mixpanel, Google Analytics, Kibana, Splunk, PagerDuty
+* **Experimentation** — Optimizely
+* **Project management / documentation** — Atlassian (Jira, Confluence, Trello), Slab, Google Docs, Figma
+* **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
 ### Career highlights
 * Developed the first website for the Chicago Cubs
