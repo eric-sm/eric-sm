@@ -3,7 +3,7 @@ I am actively seeking a staff, principal, manager, or director level software en
 
 If you need an experienced, fun webapp developer and engineering leader with a strong servant leader management style, review my [resume on Google Drive (PDF)](https://drive.google.com/file/d/1ZjaJdfN0q9BB_qL9k6h1zAtuamGMaeWY/view?usp=sharing) and contact me at hire-me@jericsmall.com, if intereested.
 
-### Skills
+### Skills 🧠
 * **Leadership** — servant leadership, WISER situation analysis model, SWOT planning and analyses
 * **SDLC:** Scrum, Kanban, agile methodologies, waterfall
 * **Design methodologies / tools** — DDD (domain driven design), c4 modeling, Miro
@@ -18,12 +18,12 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * **Project management / documentation** — Atlassian (Jira, Confluence, Trello), Slab, Google Docs, Figma
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
-### Career highlights
+### Career highlights 🏁
 * Developed the first website for the Chicago Cubs
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laundry and dry cleaning startup that employed over 250 at its peek
 
-### Job History in Web Tech
+### Job History in Web Tech 🛠
 * SmartAsset
 * Rent the Runway
 * FlyCleaners
