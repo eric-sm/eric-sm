@@ -17,16 +17,16 @@
 * Tools: Miro, Lucidchart
 
 ### Programming Languages
-* TypeScript
-* JavaScript (EcmaScript)
-* Node.js
-* Java
-* Python
-* PHP
-* HTML
-* CSS
-* SQL
-* Bash scripting
+* TypeScript — ⭐⭐⭐, 2 years with one year at FlyCleaners and one year at SmartAsset
+* JavaScript (EcmaScript) — ⭐⭐⭐⭐⭐, over 10 years spread over two decades starting with Tribune Media Services and continuing through SmartAsset
+* Node.js — ⭐⭐⭐⭐, 3 years at SmartAsset
+* Java — ⭐⭐⭐, 8 years spread through two decades starting with Tribune Media Services and including FlyCleaners, GrubHub, and SmartAsset
+* Python — ⭐⭐⭐, 3 years at SmartAsset
+* PHP — ⭐⭐⭐, 5 years split with two years at Allmenus and three years at SmartAsset
+* HTML — ⭐⭐⭐⭐⭐, over 10 years spread over two decades starting with Tribune Media Services and continuing through SmartAsset
+* CSS — ⭐⭐⭐⭐, over 10 years spread over two decades starting with Universal Studios and continuing through SmartAsset
+* SQL — ⭐⭐⭐⭐⭐, over 10 years spread over two decades starting with Tribune Media Services and continuing through SmartAsset
+* Bash scripting — ⭐⭐⭐⭐, over 10 years spread over three decades starting in college and continuing through SmartAsset
 
 ### Frameworks & Libraries
 * Next.js
