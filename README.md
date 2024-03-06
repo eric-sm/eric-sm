@@ -45,6 +45,10 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * Adbot, Inc.
 * Tribune Media Services
 
+## Hobbies and Interests
+* An avid science fiction reader, I particularly enjoy Asimov and anything Star Trek. I am currently reading the Children of Time novels,
+* I own a 10-inch Schmidt-Cassegrain telescope, and I am awed by looking at the rings of Saturn and moons of Jupiter. I am excited for the April 8th total solar eclipse after experiencing the incredible and deeply emotional opportunity of the August 2017 occurrence.
+
 ## Contact me
 * LinkedIn: https://www.linkedin.com/in/erictech/
 * Email: hire-me@jericsmall.com
