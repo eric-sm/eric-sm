@@ -19,11 +19,16 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
 ### Career highlights 🏁
+![image](https://github.com/eric-sm/eric-sm/assets/547161/780c3d62-6407-4dcf-b38d-fdb19cc0bbc4)
+
+
 * Developed the first website for the Chicago Cubs
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laundry and dry cleaning startup that employed over 250 at its peek
 
-### Job History in Web Tech 🛠
+### Job History in Web Tech 🛠️
+![image](https://github.com/eric-sm/eric-sm/assets/547161/fbcec735-6188-4c6e-9b16-6e14a562c669)
+
 * SmartAsset
 * Rent the Runway
 * FlyCleaners
@@ -40,7 +45,7 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * LinkedIn: https://www.linkedin.com/in/erictech/
 * Email: hire-me@jericsmall.com
 
-_pronouns: he/him/his_
+_pronouns: he/him/his_ 👨
 
 <!--
 - 🔭 I’m currently working on ...
