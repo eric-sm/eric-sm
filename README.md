@@ -4,7 +4,8 @@ I am actively seeking a staff, principal, manager, or director level software en
 If you need an experienced, fun webapp developer and engineering leader with a strong servant leader management style, review my [resume on Google Drive (PDF)](https://drive.google.com/file/d/1ZjaJdfN0q9BB_qL9k6h1zAtuamGMaeWY/view?usp=sharing) and contact me at hire-me@jericsmall.com, if intereested.
 
 ### Skills
-![image](https://github.com/eric-sm/eric-sm/assets/547161/1168c32c-82a8-41ec-9973-f8c1db22051b)
+![image](https://github.com/eric-sm/eric-sm/assets/547161/7db9e185-3903-43dd-b65e-6d378579966b)
+
 
 * **Leadership** — servant leadership, WISER situation analysis model, SWOT planning and analyses
 * **SDLC:** Scrum, Kanban, agile methodologies, waterfall
