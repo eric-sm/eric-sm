@@ -1,13 +1,13 @@
 ## Leadership
 * General approach: servant leadership, vision, meaning
 * Coaching: one-on-ones, providing resources
-* Analysis models: WISER, SWOT
+* Analysis models/tools: WISER, SWOT, Trello, Google Sheets
 * Direction: mission statement, vision, BHAG, team agreements, architectural stage/state diagrams 
 
 ## Management
 * SDLC methodologies: agile, Scrum, Kanban
 * Project management tools: Jira, OKRs, KPI, 
-* Documentation tools: Confluence, Slab, Lucidchart, Figma, Miro 
+* Documentation tools: Confluence, Slab, Lucidchart, Trello, Figma, Miro, Google Docs, Google Slides 
 
 ## Technology
 ### Systems design
@@ -45,6 +45,12 @@
 * Django
 * DjangoCMS
 
+### Attribution and ad management tools
+* Google Tag Manager
+* Google Publisher Tag
+* Google Ad Manager
+* Facebook Business Manager
+
 ### Data storage
 * RDBMS: PostgreSQL, MySQL, MariaDB
 * NoSQL: MongoDB
@@ -56,6 +62,7 @@
 * AWS CloudWatch
 * Mixpanel
 * Google Analytics
+* Google Search Console
 * FullStory
 * Crashlytics
 * Kibana
@@ -66,6 +73,11 @@
 * Optimizely Web
 * Optimizely Feature Experimentation
 
+### AI
+* ChatGPT 3.5
+* ChatGPT 4.0
+* Claude
+
 ### Infrastructure
 * Code management: git, GitHub, Gitlab
 * CI/CD: Gitlab, CircleCI, Jenkins
@@ -75,6 +87,9 @@
 * nginx
   ** webserver
   ** proxy server
+* Supervisor
+* Gunicorn
+* PM2
 * AWS
   ** VPC: VPC Instances, Subnets, Route Tables, Network ACL, Security Groups, Managed prefix lists, Internet Gateway, NAT Gateway, Elastic IP, Endpoints
   ** EC2: EC2 Instances, Application Load Balancers, Target Groups, Auto Scaling Groups, AMI, EBS, EBS Snapshots, Network Interfaces
