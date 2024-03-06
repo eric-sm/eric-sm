@@ -1,9 +1,11 @@
-## Are you hiring? 👋
+## Are you hiring?
 I am actively seeking a staff, principal, manager, or director level software engineering leadership role. My expertise is working on web sites and web applications, guiding teams that are designing and developing full stack solutions in earlier stage startups. 
 
 If you need an experienced, fun webapp developer and engineering leader with a strong servant leader management style, review my [resume on Google Drive (PDF)](https://drive.google.com/file/d/1ZjaJdfN0q9BB_qL9k6h1zAtuamGMaeWY/view?usp=sharing) and contact me at hire-me@jericsmall.com, if intereested.
 
-### Skills 🧠
+### Skills
+![image](https://github.com/eric-sm/eric-sm/assets/547161/1168c32c-82a8-41ec-9973-f8c1db22051b)
+
 * **Leadership** — servant leadership, WISER situation analysis model, SWOT planning and analyses
 * **SDLC:** Scrum, Kanban, agile methodologies, waterfall
 * **Design methodologies / tools** — DDD (domain driven design), c4 modeling, Miro
@@ -18,7 +20,7 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * **Project management / documentation** — Atlassian (Jira, Confluence, Trello), Slab, Google Docs, Figma
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
-### Career highlights 🏁
+### Career highlights
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/f0885266-6b6d-4efa-991b-f1aa98708485) &nbsp;
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/3b902147-a1e7-4f80-b333-0c6836870eff) &nbsp;
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/349964d7-8f3e-4a13-91cf-00fa810fee43)
@@ -27,7 +29,7 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laundry and dry cleaning startup that employed over 250 at its peek
 
-### Job History in Web Tech 🛠️
+### Job History in Web Tech
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/fbcec735-6188-4c6e-9b16-6e14a562c669)
 
 * SmartAsset
@@ -42,7 +44,7 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * Adbot, Inc.
 * Tribune Media Services
 
-## Contact me 📫
+## Contact me
 * LinkedIn: https://www.linkedin.com/in/erictech/
 * Email: hire-me@jericsmall.com
 
