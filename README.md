@@ -19,8 +19,9 @@ If you need an experienced, fun webapp developer and engineering leader with a s
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
 ### Career highlights 🏁
-![image](https://github.com/eric-sm/eric-sm/assets/547161/780c3d62-6407-4dcf-b38d-fdb19cc0bbc4)
-
+![image](https://github.com/eric-sm/eric-sm/assets/547161/f0885266-6b6d-4efa-991b-f1aa98708485) &nbsp;
+![image](https://github.com/eric-sm/eric-sm/assets/547161/3b902147-a1e7-4f80-b333-0c6836870eff) &nbsp;
+![image](https://github.com/eric-sm/eric-sm/assets/547161/349964d7-8f3e-4a13-91cf-00fa810fee43)
 
 * Developed the first website for the Chicago Cubs
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
