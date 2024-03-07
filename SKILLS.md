@@ -1,8 +1,18 @@
 ## Leadership
+* Qualities of:
+  * listening
+  * inspiring -- provides vision
+  * steadiness
+  * ability to delegate
+  * conflict/crisis management
+  * decision-making
+  * communication
+  * positivity
 * General approach: servant leadership, vision, meaning
-* Coaching: one-on-ones, providing resources
-* Analysis models/tools: WISER, SWOT, Trello, Google Sheets
 * Direction: mission statement, vision, BHAG, team agreements, architectural stage/state diagrams 
+* Behavior analysis models: WISER, Myers-Briggs, Big Five, Goleman EQ, TopGrade, game theory
+* Coaching: one-on-ones, providing resources
+* Planning and analysis tools: Miro, Trello, Google Sheets, MS Excel, SWOT
 
 ## Management
 * SDLC methodologies: agile, Scrum, Kanban
@@ -30,14 +40,14 @@
 
 ### Frameworks & Libraries
 * Next.js
-** App Router
-** Page Router
+  * App Router
+  * Page Router
 * React.js
-  ** core
-  ** React Hooks
+  * core
+  * React Hooks
 * GraphQL
-  ** WPGraphQL
-  ** Apollo Client
+  * WPGraphQL
+  * Apollo Client
 * XState
 * jQuery
 * Angular
@@ -85,37 +95,37 @@
 * Docker
 * Apache webserver
 * nginx
-  ** webserver
-  ** proxy server
+  * webserver
+  * proxy server
 * Supervisor
 * Gunicorn
 * PM2
 * AWS
-  ** VPC: VPC Instances, Subnets, Route Tables, Network ACL, Security Groups, Managed prefix lists, Internet Gateway, NAT Gateway, Elastic IP, Endpoints
-  ** EC2: EC2 Instances, Application Load Balancers, Target Groups, Auto Scaling Groups, AMI, EBS, EBS Snapshots, Network Interfaces
-  ** RDS: RDD Instances, cross-zone availability, replication, clusters, snapshots, snapshot restoration
-  ** Database Migration Service
-  ** Lambda
-  ** AWS Amplify
-  ** API Gateway
-  ** Route53: Hosted Zone, health checks
-  ** IAM: Users, Roles, User groups, Policies, Identity providers, AWS Organizations
-  ** Certificate Manager
-  ** Secrets Manager
-  ** Key Management Service
-  ** CloudTrail
-  ** CloudWatch: alarms, logs, Synthetic Canary
-  ** Athena
-  ** AWS Glue
-  ** SNS: topics, subscriptions
-  ** EventBridge: event buses, rules, schedules
-  ** ELK: ElasticSearch, logstash, Kibana
-  ** Kinesis
-  ** CloudShell
-  ** Cloud9
-  ** S3: buckets, encryption, versioning, object lock, static website hosting, bucket policies, ACLs, CORS, logging, lifecycle rules
-  ** CloudFront: distributions, Origins, Behaviors, Error Pages, Functions, Policies, origin access, logging
-  ** AWS WAF (web application firewall): Web ACLs, bot control, rule groups, regex pattern sets, IP sets
+  * VPC: VPC Instances, Subnets, Route Tables, Network ACL, Security Groups, Managed prefix lists, Internet Gateway, NAT Gateway, Elastic IP, Endpoints
+  * EC2: EC2 Instances, Application Load Balancers, Target Groups, Auto Scaling Groups, AMI, EBS, EBS Snapshots, Network Interfaces
+  * RDS: RDD Instances, cross-zone availability, replication, clusters, snapshots, snapshot restoration
+  * Database Migration Service
+  * Lambda
+  * AWS Amplify
+  * API Gateway
+  * Route53: Hosted Zone, health checks
+  * IAM: Users, Roles, User groups, Policies, Identity providers, AWS Organizations
+  * Certificate Manager
+  * Secrets Manager
+  * Key Management Service
+  * CloudTrail
+  * CloudWatch: alarms, logs, Synthetic Canary
+  * Athena
+  * AWS Glue
+  * SNS: topics, subscriptions
+  * EventBridge: event buses, rules, schedules
+  * ELK: ElasticSearch, logstash, Kibana
+  * Kinesis
+  * CloudShell
+  * Cloud9
+  * S3: buckets, encryption, versioning, object lock, static website hosting, bucket policies, ACLs, CORS, logging, lifecycle rules
+  * CloudFront: distributions, Origins, Behaviors, Error Pages, Functions, Policies, origin access, logging
+  * AWS WAF (web application firewall): Web ACLs, bot control, rule groups, regex pattern sets, IP sets
   
 ### Operating environments
 * Linux
