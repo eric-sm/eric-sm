@@ -27,10 +27,12 @@
 * Tools: Miro, Lucidchart
 
 ### Hands-on Skills
-PROGRAMMING LANGUAGES      | PROFICIENCY<sup>*</sup>        | YEARS OF EXPERIENCE
+_Proficiency scale is from ⭐ (weak) to ⭐⭐⭐⭐⭐ (strong)_
+
+🟢&nbsp;LANGUAGES         | PROFICIENCY                    | YEARS OF EXPERIENCE
 :------------------------  | :----------------------------: | ------------------------------------------------------------
 TypeScript                 | :star::star::star:             | 2 years with one year at FlyCleaners and one year at SmartAsset
-JavaScript (EcmaScript)    | :star::star::star::star::star: | 10+ years; used at Tribune Media Services, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
+JavaScript<br>(EcmaScript) | :star::star::star::star::star: | 10+ years; used at Tribune Media Services, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
 Node.js                    | :star::star::star::star:       | 3 years at SmartAsset
 Java                       | :star::star::star:             | 8 years; used at Tribune Media Services, GrubHub, FlyCleaners, SmartAsset
 Python                     | :star::star::star:             | 4 years at SmartAsset
@@ -39,19 +41,19 @@ HTML                       | :star::star::star::star::star: | 10+ years; used at
 CSS                        | :star::star::star::star:       | 10+ years; used at Universal Studios, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
 SQL                        | :star::star::star::star::star: | 10+ years; used at Tribune Media Services, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
 Bash scripting             | :star::star::star::star:       | 10+ years; used at Tribune Media Services, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more                                   
-__FRAMEWORKS & LIBRARIES__ | __PROFICIENCY<sup>*</sup>__    | __YEARS OF EXPERIENCE__
-Next.js 14 (App Router)    | :star::star::star::star::star: | 1 year at SmartAsset; for as long as the v14 App Router has been out of beta
-Next.js 13 (Page Router)   | :star::star::star::star:       | 1 year at SmartAsset
-React.js w/React Hooks     | :star::star::star::star::star: | 5 years at Rent the Runway and SmartAsset
+🟡&nbsp;__LIBRARIES__     | __PROFICIENCY__                | __YEARS OF EXPERIENCE__
+Next.js 14<br>App Router   | :star::star::star::star::star: | 1 year at SmartAsset; for as long as the v14 App Router has been out of beta
+Next.js 13<br>Page Router  | :star::star::star::star:       | 1 year at SmartAsset
+React.js<br>w/React Hooks  | :star::star::star::star::star: | 5 years at Rent the Runway and SmartAsset
 GraphQL                    | :star::star::star:             | 1 year at SmartAsset; querying only
 WPGraphQL                  | :star::star::star:             | 1 year at SmartAsset in commbination with Advanced Custom Fields plugin on WordPress
 Apollo Client              | :star::star::star:             | 1 year at SmartAsset including customm caching configuration for Next.js 14 App Router
 XState                     | :star::star::star::star:       | 3 years at SmartAsset
 jQuery                     | :star::star::star::star::star: | 10+ years; used at Citysearch, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
-Spring MVC/Spring Boot     | :star::star::star::star:       | 10+ years; used at DreamWorks SKG, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
+Spring MVC<br>Spring Boot  | :star::star::star::star:       | 10+ years; used at DreamWorks SKG, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
 Django                     | :star::star::star:             | 4 years at SmartAsset
 DjangoCMS                  | :star::star::star:             | 4 years at SmartAsset                                                                                                                    
-__DATA STORAGE__           | __PROFICIENCY<sup>*</sup>__    | __YEARS OF EXPERIENCE__
+🔵&nbsp;__DATASTORES__    | __PROFICIENCY__                | __YEARS OF EXPERIENCE__
 PostgreSQL                 | :star::star::star::star:       | 4 years at SmartAsset
 MySQL/MariaDB              | :star::star::star::star::star: | 10+ years; used at GOOD Magazine, GrubHub, FlyCleaners, Rent the Runway, SmartAsset, and more
 MongoDB                    | :star::star:                   | 2 years at FlyCleaners
@@ -138,5 +140,3 @@ AWS RDS                    | :star::star::star::star::star: | 10+ years; used at
 * web apps
 * websites
 * SEO (technical, reputation)
-
-<sup>*</sup> _Proficiency scale is from ⭐ (weak) to ⭐⭐⭐⭐⭐ (strong)_
