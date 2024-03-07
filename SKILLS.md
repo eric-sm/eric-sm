@@ -2,16 +2,16 @@
 * Qualities of:
   * listening
   * inspiring -- provides vision
-  * steadiness
+  * steadiness/discipline
   * ability to delegate
   * conflict/crisis management
   * decision-making
   * communication
   * positivity
-* General approach: servant leadership, vision, meaning
-* Direction: mission statement, vision, BHAG, team agreements, architectural stage/state diagrams 
-* Behavior analysis models: WISER, Myers-Briggs, Big Five, Goleman EQ, TopGrade, game theory
-* Coaching: one-on-ones, providing resources
+* General approach: servant leadership, providing vision/meaning, respect of the individualism of each individual
+* Direction artifacts: mission statement, vision, BHAG, team agreements, architectural stage/state diagrams 
+* Behavior analysis models: WISER, Myers-Briggs, Big Five, Goleman EQ, blind spot assessments, TopGrade, game theory
+* Coaching approaches: one-on-ones, peer coding, providing resources
 * Planning and analysis tools: Miro, Trello, Google Sheets, MS Excel, SWOT
 
 ## Management
@@ -27,6 +27,11 @@
 * Tools: Miro, Lucidchart
 
 ### Programming Languages
+Technology    |   Profiency (1-5 ⭐)   | Years of Experience with notes (where, gaps in usage, etc.
+:------------ | :--------------------: | :----------------------------------------------------------
+Content Cell  | Content Cell  |
+Content Cell  | Content Cell  | 
+
 * TypeScript — ⭐⭐⭐, 2 years with one year at FlyCleaners and one year at SmartAsset
 * JavaScript (EcmaScript) — ⭐⭐⭐⭐⭐, over 10 years spread over two decades starting with Tribune Media Services and continuing through SmartAsset
 * Node.js — ⭐⭐⭐⭐, 3 years at SmartAsset
