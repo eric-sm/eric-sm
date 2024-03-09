@@ -20,7 +20,7 @@ If you need an experienced, fun web app developer and engineering leader with a 
 * **Project management / documentation** — Atlassian (Jira, Confluence, Trello), Slab, Google Docs, Figma
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
-_For details on my level of proficiency and longevity of use of these various skills, see the [Skills page](SKILLS.md)._
+_See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wiki/external/ZDYxMzViYzhmOTMxNDM3NTlhOWRmMzVlZGNmODcxZGM) on Confluence for my breakdown of these skills. For details of my proficiency and longevity of use of the language, frameworks / libraries, database, and OS skills, see my [Software Engineering Skills page](https://eric-sm.atlassian.net/wiki/external/MjM5YTgwZmZhZDkxNDc0ZDkzNTU2ZWY4MjBkMGJiYzA)) on Confluence._
 
 ## Career highlights
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/f0885266-6b6d-4efa-991b-f1aa98708485) &nbsp;
