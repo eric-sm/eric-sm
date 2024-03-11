@@ -9,7 +9,7 @@
 ## Skills
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/7db9e185-3903-43dd-b65e-6d378579966b)
 
-* **Leadership** — servant leadership, WISER situation analysis model, SWOT planning and analyses
+* **Leadership** — servant leadership, coaching, change management, WISER analysis technique, SWOT analysis, Big Five, game theory
 * **SDLC:** Scrum, Kanban, agile methodologies, waterfall
 * **Design methodologies / tools** — DDD (domain driven design), c4 modeling, LucidChart, Miro
 * **Languages:** TypeScript, JavaScript, Node.js, Java, Python, PHP, HTML, CSS, SQL
