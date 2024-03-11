@@ -34,17 +34,17 @@ _See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wi
 ## Job History in Web Tech
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/fbcec735-6188-4c6e-9b16-6e14a562c669)
 
-* SmartAsset
-* Rent the Runway
-* FlyCleaners
-* GrubHub / Allmenus / Campusfood
-* GOOD Magazine
-* Citysearch
-* DreamWorks SKG
-* Universal Studios
-* Diamond Technology Partners / DiamondCluster
-* Adbot, Inc.
-* Tribune Media Services
+* __SmartAsset__ — Engineering Manager — 2020 to 2024
+* __Rent the Runway__ — fulfillment center specialist (contract) — 2019
+* __FlyCleaners__ — CTO, Head of Technology — 2013 to 2018
+* __GrubHub__ / __Allmenus__ / __Campusfood__ — Director of Technology, Director of Product & Technology — 2010 to 2013
+* __GOOD Magazine__ — VP, Product & Engineering — 2009 to 2010
+* __Citysearch__ — Director of Consumer Products, Engineering Manager — 2005 to 2009
+* __DreamWorks SKG__ — Systems Architect — 2004 to 2005
+* __Universal Studios__ — Senior Programmer, Tech Lead — 2001 to 2004
+* __Diamond Technology Partners__ / __DiamondCluster__ — Senior Web Architect — 1998 to 2001
+* __Adbot, Inc.__ — Internet Team Manager — 1997
+* __Tribune Media Services__ — Web Systems Specialist — 1996 to 1997
 
 ## Hobbies and Interests
 * An avid science fiction reader, I particularly enjoy Asimov and anything Star Trek. I am currently reading the Children of Time novels,
