@@ -31,7 +31,7 @@ _See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wi
 * Contributed to four startups that subsequently exited in an IPO (DiamondCluster, DreamWorks, GrubHub, Rent the Runway)
 * Partnered to start FlyCleaners, an on-demand laundry and dry cleaning startup that employed over 250 at its peek
 
-## Job History in Web Tech
+## Job History
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/fbcec735-6188-4c6e-9b16-6e14a562c669)
 
 * __SmartAsset__ — Engineering Manager — 2020 to 2024
