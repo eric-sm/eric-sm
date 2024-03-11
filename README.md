@@ -23,7 +23,7 @@
 * **Project management / documentation** — Atlassian (Jira, Confluence, Trello), Slab, Google Docs, Figma
 * **Code / process management** — Git, Subversion, GitHub, Jenkins, CircleCI, PM2, Gunicorn, Supervisor
 
-_See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wiki/external/ZDYxMzViYzhmOTMxNDM3NTlhOWRmMzVlZGNmODcxZGM) on Confluence for my breakdown of these skills. For details of my proficiency and longevity of use of the language, frameworks / libraries, database, and OS skills, see my [Software Engineering Skills page](https://eric-sm.atlassian.net/wiki/external/MjM5YTgwZmZhZDkxNDc0ZDkzNTU2ZWY4MjBkMGJiYzA)) on Confluence._
+See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wiki/external/ZDYxMzViYzhmOTMxNDM3NTlhOWRmMzVlZGNmODcxZGM) page for an expanded breakdown of these softer skills. Also see my [Software Engineering Skills page](https://eric-sm.atlassian.net/wiki/external/MjM5YTgwZmZhZDkxNDc0ZDkzNTU2ZWY4MjBkMGJiYzA) page for expanded details of my proficiency and longevity of use of the languages, 3rd party frameworks and libraries, databases, and OS technologies listed here and a more exhaustive list of other technologies I have used.
 
 ## Career highlights
 ![image](https://github.com/eric-sm/eric-sm/assets/547161/f0885266-6b6d-4efa-991b-f1aa98708485) &nbsp;
