@@ -55,6 +55,7 @@ See my [Leadership and Management Skills page](https://eric-sm.atlassian.net/wik
 
 ## Contact me
 * LinkedIn: https://www.linkedin.com/in/erictech/
+* Confluence: [About Me](https://eric-sm.atlassian.net/wiki/external/OGI4MjgwOWM2NjZhNDg3NTk3ZmRhZDkzMDBhODA4ZmY) page
 * Email: hire-me@jericsmall.com
 
 _pronouns: he/him/his_ 👨
