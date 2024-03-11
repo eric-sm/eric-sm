@@ -3,7 +3,7 @@
 > 
 > I am actively seeking a staff, principal, manager, or director level software engineering leadership role. My expertise is working on web sites and web applications, guiding teams that are designing and developing full stack solutions in earlier stage startups.
 > 
-> If you need an experienced, fun web app developer and engineering leader with a strong servant leader management style, review my [resume on Google Drive (PDF)](https://drive.google.com/file/d/1ZjaJdfN0q9BB_qL9k6h1zAtuamGMaeWY/view?usp=sharing) and contact me at hire-me@jericsmall.com, if interested.
+> If you need an experienced, fun web app developer and engineering leader with a strong servant leader management style, review my [PDF-formatted resume](https://eric-sm.atlassian.net/wiki/external/OGI4MjgwOWM2NjZhNDg3NTk3ZmRhZDkzMDBhODA4ZmY) and contact me at hire-me@jericsmall.com, if interested.
 
 
 ## Skills
