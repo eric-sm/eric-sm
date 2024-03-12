@@ -1,9 +1,9 @@
 > [!Tip]
-> __Need an experienced, hands-on engineering leader for your startup?__
+> __Looking for an experienced, hands-on engineering leader?__
 > 
-> Do you have need for a fun solutions developer to nurture your company’s culture? Would you benefit from an established engineering leader with a servant leader management style? Do you value a leader with a long and successful history working with earlier stage startups, many of which went on to IPO?
-> 
-> Contact me to help guide and grow your team and supercharge the development of your product or service. Download and review my [PDF-formatted resume](https://drive.google.com/file/d/1Gnp4lCN5d3QqzRKZDgyt3mq14AQh7xmy/view?usp=drive_link) and email me at hire_me@jericsmall.com.
+> Do you need a fun solutions developer to problem solve while also helping to nurture your company culture? Would your team benefit by having access to an established engineering leader with a servant leadership management style? Do you value a leader with a long and successful history working with earlier stage startups, many of which went on to IPO?
+>
+> Contact me if you need me to help guide and grow your team and to supercharge the development of your product or service. Download and review my [PDF-formatted resume](https://drive.google.com/file/d/1Gnp4lCN5d3QqzRKZDgyt3mq14AQh7xmy/view?usp=drive_link) and email me at hire_me@jericsmall.com.
 
 
 ## Skills
