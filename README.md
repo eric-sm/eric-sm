@@ -1,9 +1,9 @@
 > [!Tip]
-> __Are you hiring?__
+> __Need an experienced, hands-on engineering leader for your startup?__
 > 
-> I am actively seeking a staff, principal, manager, or director level software engineering leadership role. My expertise is working on web sites and web applications, guiding teams that are designing and developing full stack solutions in earlier stage startups.
+> Do you have need for a fun solutions developer to nurture your company’s culture? Would you benefit from an established engineering leader with a servant leader management style? Do you value a leader with a long and successful history working with earlier stage startups, many of which went on to IPO?
 > 
-> If you need an experienced, fun web app developer and engineering leader with a strong servant leader management style, review my [PDF-formatted resume](https://drive.google.com/file/d/1Gnp4lCN5d3QqzRKZDgyt3mq14AQh7xmy/view?usp=drive_link) and contact me at hire_me@jericsmall.com, if interested.
+> Contact me to help guide and grow your team and supercharge the development of your product or service. Download and review my [PDF-formatted resume](https://drive.google.com/file/d/1Gnp4lCN5d3QqzRKZDgyt3mq14AQh7xmy/view?usp=drive_link) and email me at hire_me@jericsmall.com.
 
 
 ## Skills
